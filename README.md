@@ -18,7 +18,7 @@ Este repositorio contiene un análisis exploratorio y descriptivo del comportami
 
 ---
 
-##⚡ Cómo Ejecutar el Código 
+## ⚡ Cómo Ejecutar el Código 
 Acceder al Notebook de Google Colab: Abre el archivo telecomx.ipynb en Google Colab.
 Ejecutar las Celdas: Ejecuta las celdas de código secuencialmente en el notebook. Los resultados del análisis y las visualizaciones se mostrarán directamente en el notebook.
 
@@ -58,22 +58,6 @@ Se generaron múltiples gráficos para visualizar la distribución de cancelacio
 
 ---
 
-## 🚀 Próximos pasos
-
-- Desarrollo de un modelo de **machine learning** para predecir la cancelación.
-- Implementación de un sistema de **alertas tempranas** y **score de riesgo**.
-- Diseño de **estrategias de retención personalizadas** por segmento de cliente.
-
----
-
-## 📌 Créditos
-
-Este análisis fue desarrollado por el equipo de analítica de datos como parte de un ejercicio práctico de churn prediction.
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más información.
-
+## 📜✏️ Autor 
+Mafer2871.
 ---
