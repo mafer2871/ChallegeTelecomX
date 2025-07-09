@@ -10,14 +10,15 @@ Este repositorio contiene un análisis exploratorio y descriptivo del comportami
 - Realizar recomendaciones con base en las observaciones
 ---
 
-Contenido del Repositorio 📁
+## 📁 Contenido del Repositorio 
 
-telecomx.ipynb: El archivo de Google Colab que contiene el código Python completo y el informe final del análisis.
-README.md: Este archivo, que proporciona una descripción general del proyecto.
-**InformeAluraStore.pdf Documentos que presenta los resultados y las conclusiones del análisis.
-Impagnes: Carpeta con los archivos de las gráficas realizadas.
+- telecomx.ipynb: El archivo de Google Colab que contiene el código Python completo y el informe final del análisis.
+- README.md: Este archivo, que proporciona una descripción general del proyecto.
+- Imagenes: Carpeta con los archivos de las gráficas realizadas.
 
-Cómo Ejecutar el Código ⚡
+---
+
+##⚡ Cómo Ejecutar el Código 
 Acceder al Notebook de Google Colab: Abre el archivo telecomx.ipynb en Google Colab.
 Ejecutar las Celdas: Ejecuta las celdas de código secuencialmente en el notebook. Los resultados del análisis y las visualizaciones se mostrarán directamente en el notebook.
 
