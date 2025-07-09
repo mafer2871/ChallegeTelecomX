@@ -60,4 +60,5 @@ Se generaron múltiples gráficos para visualizar la distribución de cancelacio
 
 ## 📜✏️ Autor 
 Mafer2871.
+
 ---
