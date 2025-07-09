@@ -1,4 +1,3 @@
-# ChallegeTelecomX
 # 📊 Análisis de Cancelación de Clientes – Telecom X
 
 Este repositorio contiene un análisis exploratorio y descriptivo del comportamiento de cancelación de clientes (*churn*) en una empresa de telecomunicaciones ficticia: **Telecom X**. El objetivo principal es identificar los factores asociados a la pérdida de clientes y construir la base para un modelo predictivo y estrategias de retención.
@@ -11,17 +10,16 @@ Este repositorio contiene un análisis exploratorio y descriptivo del comportami
 - Realizar recomendaciones con base en las observaciones
 ---
 
-## 📂 Estructura del proyecto
+Contenido del Repositorio 📁
 
+telecomx.ipynb: El archivo de Google Colab que contiene el código Python completo y el informe final del análisis.
+README.md: Este archivo, que proporciona una descripción general del proyecto.
+**InformeAluraStore.pdf Documentos que presenta los resultados y las conclusiones del análisis.
+Impagnes: Carpeta con los archivos de las gráficas realizadas.
 
-
----
-
-## 🔗 Fuente de Datos
-
-Los datos fueron obtenidos dinámicamente desde una URL en formato JSON y cargados directamente en el entorno de Google Colab mediante `pandas.read_json()`.
-
-> URL: `https://...` *(Reemplazar por la real si es pública)*
+Cómo Ejecutar el Código ⚡
+Acceder al Notebook de Google Colab: Abre el archivo telecomx.ipynb en Google Colab.
+Ejecutar las Celdas: Ejecuta las celdas de código secuencialmente en el notebook. Los resultados del análisis y las visualizaciones se mostrarán directamente en el notebook.
 
 ---
 
