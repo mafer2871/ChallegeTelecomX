@@ -12,7 +12,7 @@ Este repositorio contiene un análisis exploratorio y descriptivo del comportami
 
 ## 📁 Contenido del Repositorio 
 
-- telecomx.ipynb: El archivo de Google Colab que contiene el código Python completo y el informe final del análisis.
+- TelecomX.ipynb: El archivo de Google Colab que contiene el código Python completo y el informe final del análisis.
 - README.md: Este archivo, que proporciona una descripción general del proyecto.
 - Imagenes: Carpeta con los archivos de las gráficas realizadas.
 
